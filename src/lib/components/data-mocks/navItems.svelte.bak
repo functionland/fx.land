@@ -45,7 +45,7 @@
 			}
 		],
 		cta: {
-			path: 'https://reward.fx.land/order_blox',
+			path: 'https://indiegogo.fx.land/',
 			text: 'Pre-Order',
 			type: 'link',
 			refrence: 'preorder',
